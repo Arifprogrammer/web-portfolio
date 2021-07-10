@@ -1,9 +1,58 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 .welcome{
     font-size: 40px;
 }
 .name_color_change{
     color: purple;
+}
+.first_div{
+    width:40%;
+    float: left;
+    margin-left: 80px;
+}
+.first_div p{
+    text-align: justify;
+    padding-bottom: 20px;
+}
+.second_div img{
+    width: 560px;
+    height: 450px;
+    margin-left: 80px;
+    margin-top: 20px;
+    
+}
+.frstsec{
+    background-image: url("./images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.frstbutton{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 7px;
+    background-image: linear-gradient(45deg, rgba(216, 22, 22, 0.904),rgba(0, 0, 0, 0.842));
+    color: whitesmoke;
+    margin-bottom: 20px;
+}
+.third_div img{
+    width: 470px;
+    height: 450px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.third_div{
+    float: left;
+}
+.fourth_div{
+    width:40%;
+    margin-left: 700px;
+    position: absolute;
+}
+.secondsec{
+    background-image: url("./images/dream-bg.png");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: right;
 }
