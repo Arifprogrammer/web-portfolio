@@ -13,7 +13,7 @@ body{
     float: left;
     margin-left: 80px;
 }
-.first_div p{
+.parag{
     text-align: justify;
     padding-bottom: 20px;
 }
@@ -47,10 +47,11 @@ body{
 }
 .fourth_div{
     width:40%;
-    margin-left: 700px;
+    margin-left: 630px;
     position: absolute;
 }
 .secondsec{
+    margin-top: 70px;
     background-image: url("./images/dream-bg.png");
     height: 500px;
     background-repeat: no-repeat;
