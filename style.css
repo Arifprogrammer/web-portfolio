@@ -16,6 +16,7 @@ body{
 .parag{
     text-align: justify;
     padding-bottom: 20px;
+    color: rgb(116, 112, 112);
 }
 .second_div img{
     width: 560px;
@@ -56,4 +57,62 @@ body{
     height: 500px;
     background-repeat: no-repeat;
     background-position: right;
+}
+.third_sec{
+    margin-top: 120px;
+    /* position: relative; */
+}
+.third_sec span{
+    font-weight: 700;
+    color: grey;
+    font-size: 40px;
+    margin-left: 80px;
+    
+}
+.last_div_gula{
+    width:35%;
+    margin-left: 80px;
+    /* border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(255, 171, 156), tomato);
+    border-image-slice: 1; */
+    /* position: relative; */
+}
+.modify{
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+    margin-bottom: 120px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.arektu_modify{
+    position: absolute;
+    margin-left: 650px;
+    margin-top: -413px;
+    height: 45%;
+    padding-bottom: 20px;
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(7, 54, 32), rgb(11, 255, 31));
+    border-image-slice: 1;
+}
+.img img{
+    height: 200px;
+    width: 100px;
+    position: absolute;
+    margin-top: -350px;
+    z-index: 1;
+}
+.mod{
+    position: relative;
+    z-index: 2;
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(255, 199, 189), tomato);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    color: rgb(116, 112, 112);
+    font-size: 12px;
+}
+#yo{
+    padding-top: 20px;
 }
